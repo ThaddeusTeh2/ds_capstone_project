@@ -63,3 +63,7 @@ This project explores whether brand prestige and design heritage still hold weig
 - **Version Control:** Git, GitHub
 
 ---
+
+## Dataset
+
+- from: https://github.com/ThaddeusTeh2/artisan_keyboards_dataset
